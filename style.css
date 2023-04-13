@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+body{
+    background-color: darkslateblue;
+    color: white;
+    font-family: 'Spartan', sans-serif;
+    letter-spacing: 2px;
+}
+.profile-pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    height: auto;
+    max-width: 100px;
+    border-radius: 50%;
+}
+.profile-name{
+    text-align: center;
+    padding: 30px;
+    font-size: 28px;
+}
+.links a{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid coral;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+}
+
